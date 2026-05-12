@@ -1,0 +1,20 @@
+{
+    "name": "jesussalvadorbesrod/unidad-08",
+    "description" : "Tarefa 08 do Exame da 3 evaluación",
+    "type": "project",
+    "require": {
+        "jaxon-php/jaxon-core": "^5.7"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesús Salvador Besada Rodríguez",
+            "email": "jesussalvadorbesrod@iesrodeira.gal"
+        }
+    ]
+}
